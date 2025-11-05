@@ -1,6 +1,6 @@
 # Xitry Game
 
-![Xitry Game Avatar](./logo.jpg) <!-- Update path to your actual avatar image -->
+
 
 ## More Than a Studio, We're Experience Creators
 
